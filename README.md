@@ -1,10 +1,8 @@
 # react-autocomplete-kurzgesagt
 Simple base app with react, react-router v4, hot-reload &amp; sass.
 
-
-
 ## How to install
-You can use both npm or yarn, the version I used to create this project are:
+You can use both npm or yarn
 
 ```
 $ node -v ; npm -v ; yarn -v
@@ -12,18 +10,11 @@ v8.8.1
 5.4.2
 1.2.1
 ```
-If you just freshly installed yarn/npm you are good to go, else you might need to upgrade, for npm I use `n`
+If you just freshly installed yarn/npm you are good to go
 
 ```
 npm install -g n
 ```
-to install it and after that select at least the stable version (what I used).
-
-```
-n stable
-```
-
-and now you have the latest stable version of node&npm.
 
 `npm i` or `yarn` to install the dependencies.
 
